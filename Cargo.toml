@@ -1,6 +1,5 @@
 [workspace]
-members = [
-    "server",
-    "canvas",
-    "test-client",
-]
+members = ["server", "canvas", "test-client"]
+
+resolver = "2"
+
